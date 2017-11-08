@@ -26,5 +26,5 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 # 模板介绍
 
-​	详细模板介绍请移步[我的个人博客](www.mazhanpeng.com)
+​	详细模板介绍请移步[我的个人博客](https://www.mazhanpeng.com/2017/11/01/TemplateForVue2/)
 
